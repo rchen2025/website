@@ -1,6 +1,7 @@
 ---
 title: "Blog #1"
-layout: textlay
+layout: post
 sitemap: false
 permalink: /blog.html
 ---
+
