@@ -9,7 +9,7 @@ permalink: /blog.html
 <div class="jumbotron">
 {% for post in site.data.blogs %}
 
-<li><a href="../_pages/_blogposts/blog1.html"><b>{{ post.title }}</b><br></a></li>
+<li><a href="../_pages/_blogposts/blog1.html">{{ post.title }}</a></li>
 
 <b>{{ post.date }}</b>
 
