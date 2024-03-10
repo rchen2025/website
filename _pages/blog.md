@@ -12,6 +12,5 @@ permalink: /blog.html
 <b>{{ post.date }}</b>
 
 {{ post.preview }}
-{{ post.content }}
 {% endfor %}
 </div>
