@@ -1,5 +1,6 @@
 - title: Testing
-  permalink: /blog/2024/03/09/Testing.html
+  #permalink: /blog/2024/03/09/Testing.html
+  permalink: /Testing.html
   date: 9 March, 2024
   preview: lsakjf;sdj;k;
   content: hello world!
