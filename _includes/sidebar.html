@@ -62,7 +62,7 @@
   <h4>Posts</h4>
 
   {% for post in site.data.blogs limit:3 %}
-  <b>{{ post.title }}</b><br>
+  <b><a href="{{ site.url }}{{ site.baseurl }}{{ post.permalink }}"> {{ post.title }}</a></b><br>
   <b>{{ post.date }}</b>
     <p>{{ post.content }}</p>
   {% endfor %}
