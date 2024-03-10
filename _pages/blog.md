@@ -9,8 +9,9 @@ permalink: /blog.html
 
 <div class="jumbotron">
 {% for post in site.data.blogs %}
+
+<b>{{ post.title }}</b><br>
 <b>{{ post.date }}</b>
-<b>{{ post.title }}</b>
 
 {{ post.content }}
 {% endfor %}
