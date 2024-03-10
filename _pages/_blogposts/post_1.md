@@ -2,9 +2,8 @@
 title: "Testing"
 layout: post
 sitemap: false
-permalink: /testing.html
+permalink: /2024/03/09/Testing.html
 ---
-<p>
-yippee!
-</p>
+
+###yippee!
 
