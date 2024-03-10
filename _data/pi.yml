@@ -1,13 +1,14 @@
-- name: Dr. Richard Feynman
-  photo: headshot.jpg
+- name: Richard Chen
+  photo: richard_chen_mit.jpg
   info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
-  cv: cv/cv.pdf
+  email: richard.hn.chen@gmail.com
+  github: https://github.com/rchen2025
+  #researchgate: https://www.researchgate.net/
+  #scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  #cv: cv/cv.pdf
+  linkedin: https://www.linkedin.com/in/rchen2025/
   # Change the number below to the number of "educations" you have (up to 6)
-  number_educ: 2
+  number_educ: 0
   education1: "(1942) Ph.D. Physics, Princeton University"
   education2: "(1939) B.S. Physics, Massachusetts Institute of Technology"
   # education3: 

@@ -5,29 +5,11 @@ sitemap: false
 permalink: /
 ---
 
-### Welcome!
+### Hi!
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
-
-<div class="container">
-<div class="row">
-<center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
-</center>
-</div>
-</div>
-<br/>
+I'm Richard, a current junior in high school. When I first started high school, I had no idea what I was going to do in the future. Now, I hope to use my diverse experiences in physics, math, and computer science to create accessible technologies that address problems in the world around us. To do so, I've dabbled in materials science and space physics research, and I hope to combine these two interests in college. My past works include making cheaper and more environmentally-friendly hydrogen fuel cells as well as characterizing how STEVE (purple sky stuff) negatively impacts GPS communications. 
 
 ### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now the California Institute of Technology.
+I was born and raised near Dallas, TX, where I spent the first 15 years of my life. I can confidently say 80% of my childhood was spent reading books at Barnes and Noble and the other 20% was spent designing models in Lego Digital Designer (rip). Since then, I've moved to the Boston area, battled a tick bite, and hit Platinum 4 in League of Legends. Outside of research, I'm also a hobbyist astronomer, trombonist, crocheter, and curator of East Asian media.
 
