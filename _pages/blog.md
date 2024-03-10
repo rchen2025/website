@@ -8,10 +8,11 @@ permalink: /blog.html
 
 <div class="jumbotron">
 {% for post in site.data.blogs %}
-<b>{{ post.title }}</b><br>
+
+<li><a href="../_pages/_blogposts/blog1.html"><b>{{ post.title }}</b><br></a></li>
+
 <b>{{ post.date }}</b>
 
 {{ post.preview }}
-{{ post.content }}
 {% endfor %}
 </div>
