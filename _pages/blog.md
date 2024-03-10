@@ -8,7 +8,7 @@ permalink: /blog.html
 
 <div class="jumbotron">
 {% for post in site.data.blogs %}
-<b>{{ post.title }}</b><br>
+<b><a href="{{ site.url }}{{ site.baseurl}}{{ post.permalink }}"> {{ post.title }}</a></b><br>
 <b>{{ post.date }}</b>
 
 {{ post.preview }}

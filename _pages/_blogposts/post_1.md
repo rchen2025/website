@@ -1,8 +1,8 @@
 ---
-title: "Blog #1"
+title: "Testing"
 layout: post
 sitemap: false
-permalink: /blog/2024/03/09/
+permalink: /blog/2024/03/09/Testing
 ---
 <p>
 yippee!
