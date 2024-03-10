@@ -4,6 +4,7 @@ layout: textlay
 sitemap: false
 permalink: /blog.html
 ---
+## Blog Posts
 
 <div class="jumbotron">
 {% for post in site.data.blogs %}
