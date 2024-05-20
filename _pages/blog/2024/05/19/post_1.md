@@ -1,8 +1,8 @@
 ---
-title: "Testing"
+title: "Hello World (from a star)"
 layout: post
 sitemap: false
-permalink: /blog/2024/03/18/Testing.html
+permalink: /blog/2024/05/19/Hello_World_from_a_star.html
 ---
 ## Hello World!
 Hello anonymous internet stalker (if you know me irl, no you don't),
