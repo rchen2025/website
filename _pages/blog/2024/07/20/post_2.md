@@ -17,7 +17,7 @@ Firstly, since Simons is a research program first and foremost, I wanted to addr
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_1392.jpg" width="100%"/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_1392.jpg" width="50%"/><br/>
 My desk + elevation map of Antarctica (Fun fact: I had to win a round of word hunt to get this desk) <br/>
 </center>
 </div>
@@ -33,7 +33,7 @@ However, while lab work typically consists of just sitting around and coding, I'
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_1756.jpg" width="100%"/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_1756.jpg" width="50%"/><br/>
 Cleaning the nodes (featuring Faye)<br/>
 </center>
 </div>
@@ -82,7 +82,7 @@ While this overview is far from being all-inclusive, know that I've truly met so
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_1816.jpg" width="100%"/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_1816.jpg" width="50%"/><br/>
 Babs and Azumaril chilling on the couch <br/>
 </center>
 </div>

@@ -32,7 +32,7 @@ Finally, it was the time for my presentation, which was first up on the schedule
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_9620.jpg" width="100%"/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_9620.jpg" width="50%"/><br/>
 In the conference room! <br/>
 </center>
 </div>
@@ -51,7 +51,7 @@ For some final thoughts, I thought that overall, the mini-conference was a very 
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_9621.jpg" width="100%"/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_9621.jpg" width="50%"/><br/>
 4th floor bathroom shot. <br/>
 </center>
 </div>
@@ -66,7 +66,7 @@ Following the meeting, I didn't really have much to do. I got lunch at Nud Pob a
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_9623.jpg" width="100%"/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_9623.jpg" width="50%"/><br/>
 Thai basil chicken! (something like that) <br/>
 </center>
 </div>
@@ -79,7 +79,7 @@ After my meal, I ended up walking to Brookline and sat at Tatte. I was debating 
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_9627.jpg" width="100%"/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_9627.jpg" width="50%"/><br/>
 Mid matcha latte <br/>
 </center>
 </div>
@@ -97,7 +97,7 @@ I ended up choosing to go study at Hayden library until 4, when my mom and siste
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_9642.jpg" width="100%"/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_9642.jpg" width="50%"/><br/>
 It really was a dreary walk... <br/>
 </center>
 </div>
@@ -110,7 +110,7 @@ When I got to the Hayden library, I ended up going through the back entrance bec
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_9646.jpg" width="100%"/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_9646.jpg" width="50%"/><br/>
 Dome pic!! <br/>
 </center>
 </div>
@@ -122,7 +122,7 @@ Anyways, around 4:30ish, my mom ended up telling me that she arrived, and I pack
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_9655.jpg" width="100%"/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_9655.jpg" width="50%"/><br/>
 Good (but overpriced) cheese board <br/>
 </center>
 </div>
@@ -139,7 +139,7 @@ If you managed to read this garbage can of word vomit to the very end, I am both
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_9657.jpg" width="100%"/><br/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/IMG_9657.jpg" width="50%"/><br/>
 Next blog preview??? <br/>
 </center>
 </div>
