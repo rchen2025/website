@@ -46,7 +46,7 @@ All told, I'm excited to see what happens next with my project. Our lab has been
 
 Although research has taken a pretty big chunk of my time, I've also spent, admittedly, much more time not working. In the past 3 weeks, I've gone on:
 
-1. A 4th of July (technically 3rd of July) trip to the beach, which was planned 30 minutes before the train left resulting in a mad dash to the train station.
+- A 4th of July (technically 3rd of July) trip to the beach, which was planned 30 minutes before the train left resulting in a mad dash to the train station.
 
 <div class="container">
 <div class="row">
@@ -58,10 +58,10 @@ Beach fireworks (photo credits ???) <br/>
 </div>
 <br/>
 
-2. A later 4th of July (technically 3rd of July) trip to a random neighborhood, where fireworks were being launched at a block party???
-3. An actual 4th of July trip to the city, where we got huge pizza slices from a restaurant outside Columbia, where we infiltrated Columbia pre-college and took their ice cream, drinks, and bouncy houses, where my sock ended up keep on slipping down and I had to repeatedly take of my shoe to adjust it, where I bought a matching beer bear shirt from Pacsun in SoHo and ended up leaving it at the Chick-fil-a outside Penn Station, and where Dean lost a game against a chess hustler in Washington Square Park.
-4. A weekend trip to Stop & Shop, where I purchased a houseplant for the lab subsequently named Matthias, where we purchased ingredients to make 50 cookies in the dorm which ended up sitting in the basement for a week, and where the bus ditched us by deciding to not pick us up.
-5. A Friday trip to Huntington, where we walked 50 minutes from the train station to Huntington downtown, where we went to Catpurrcinos cat cafe and I made spiritual connection with a cat named Penelope, where we got way too expensive tacos at Tony Tacos, where we bought groceries at Stop and Shop and "walked" back to the train station in 30 minutes, where I left my phone in the train station rest stop and ran off the train 10 seconds before it departed to get, and where I sat for an hour with only a dead phone and a book of Nicholas Nickleby to keep me company.
+- A later 4th of July (technically 3rd of July) trip to a random neighborhood, where fireworks were being launched at a block party???
+- An actual 4th of July trip to the city, where we got huge pizza slices from a restaurant outside Columbia, where we infiltrated Columbia pre-college and took their ice cream, drinks, and bouncy houses, where my sock ended up keep on slipping down and I had to repeatedly take of my shoe to adjust it, where I bought a matching beer bear shirt from Pacsun in SoHo and ended up leaving it at the Chick-fil-a outside Penn Station, and where Dean lost a game against a chess hustler in Washington Square Park.
+- A weekend trip to Stop & Shop, where I purchased a houseplant for the lab subsequently named Matthias, where we purchased ingredients to make 50 cookies in the dorm which ended up sitting in the basement for a week, and where the bus ditched us by deciding to not pick us up.
+- A Friday trip to Huntington, where we walked 50 minutes from the train station to Huntington downtown, where we went to Catpurrcinos cat cafe and I made spiritual connection with a cat named Penelope, where we got way too expensive tacos at Tony Tacos, where we bought groceries at Stop and Shop and "walked" back to the train station in 30 minutes, where I left my phone in the train station rest stop and ran off the train 10 seconds before it departed to get, and where I sat for an hour with only a dead phone and a book of Nicholas Nickleby to keep me company.
 
 <div class="container">
 <div class="row">
@@ -73,7 +73,7 @@ Penelope reveal <br/>
 </div>
 <br/>
 
-6. A Friday trip to Target, where I purchased a 24-inch Squishmallow of Azumaril and where I purchased materials to make tanghulu (still have not made it yet).
+- A Friday trip to Target, where I purchased a 24-inch Squishmallow of Azumaril and where I purchased materials to make tanghulu (still have not made it yet).
 
 Additionally, I've made some new friends and have had some very interesting conversations on topics ranging from our family histories to the parental and custodial status of Babs the Blue Jay. Karaoke and movie nights are mainstays, as well as gym trips and late night convos. While I won't list names, I'm especially grateful for the friends I've been able to open up to about extremely private and important topics. Some of my favorite moments with friends include karaokeing until 4 am, gagging on 2x Buldak ramen on the first day, baking cookies, and playing ping pong.
 
